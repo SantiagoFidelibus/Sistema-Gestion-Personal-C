@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1700525928 source:c:\users\santi\desktop\dssd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"Listas.h"
+	"Arreglo.h"
+	"Fila.h"
+	"Arbol.h"
+	"StructsGlobales.h"
+
+1700523120 source:c:\users\santi\desktop\dssd\fila.c
+	"Fila.h"
+
+1700523994 c:\users\santi\desktop\dssd\fila.h
+	"Listas.h"
+	"StructsGlobales.h"
+
+1700352551 c:\users\santi\desktop\dssd\lista2.h
+	<stdio.h>
+	<stdlib.h>
+
+1700352678 source:c:\users\santi\desktop\dssd\lista2.c
+	"lista2.h"
+
+1700448639 source:c:\users\santi\desktop\dssd\arreglo.c
+	"Arreglo.h"
+
+1700523994 c:\users\santi\desktop\dssd\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"StructsGlobales.h"
+
+1700523994 c:\users\santi\desktop\dssd\arreglo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"Listas.h"
+	"StructsGlobales.h"
+
+1700510134 source:c:\users\santi\desktop\dssd\listas.c
+	"Listas.h"
+
+1700523459 source:c:\users\santi\desktop\dssd\arbol.c
+	"Arbol.h"
+
+1700523994 c:\users\santi\desktop\dssd\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"Listas.h"
+	"StructsGlobales.h"
+
+1700523994 c:\users\santi\desktop\dssd\structsglobales.h
+
+1700523459 source:c:\users\santi\desktop\trabajo practico final com 4 lab 2\arbol.c
+	"Arbol.h"
+
+1700523994 c:\users\santi\desktop\trabajo practico final com 4 lab 2\arbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"Listas.h"
+	"StructsGlobales.h"
+
+1700523994 c:\users\santi\desktop\trabajo practico final com 4 lab 2\listas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"StructsGlobales.h"
+
+1700523994 c:\users\santi\desktop\trabajo practico final com 4 lab 2\structsglobales.h
+
+1700448639 source:c:\users\santi\desktop\trabajo practico final com 4 lab 2\arreglo.c
+	"Arreglo.h"
+
+1700523994 c:\users\santi\desktop\trabajo practico final com 4 lab 2\arreglo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"Listas.h"
+	"StructsGlobales.h"
+
+1700523120 source:c:\users\santi\desktop\trabajo practico final com 4 lab 2\fila.c
+	"Fila.h"
+
+1700523994 c:\users\santi\desktop\trabajo practico final com 4 lab 2\fila.h
+	"Listas.h"
+	"StructsGlobales.h"
+
+1700510134 source:c:\users\santi\desktop\trabajo practico final com 4 lab 2\listas.c
+	"Listas.h"
+
+1700535767 source:c:\users\santi\desktop\trabajo practico final com 4 lab 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<stdbool.h>
+	"Listas.h"
+	"Arreglo.h"
+	"Fila.h"
+	"Arbol.h"
+	"StructsGlobales.h"
+
